@@ -12,9 +12,9 @@ or
 https://github.com/DWhirlpool/PyKeyCast/releases/download/v1.0.0/pykeycast.exe
 ## Usage
 ```
-C:\Users\username>pykeycast
+C:\Users\username\path\to>pykeycast
 ```
 or
 ```
-C:\Users\username>pykeycast.exe
+C:\Users\username\path\to>pykeycast.exe
 ```
