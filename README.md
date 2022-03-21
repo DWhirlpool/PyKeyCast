@@ -8,6 +8,8 @@ Install via
 ```
 $ gh repo clone DWhirlpool/PyKeyCast
 ```
+or
+https://github.com/DWhirlpool/PyKeyCast/releases/download/v1.0.0/pykeycast.exe
 ## Usage
 ```
 C:\Users\username>keycast
